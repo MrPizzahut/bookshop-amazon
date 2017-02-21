@@ -15,7 +15,7 @@ public class ShopBookDBBean {
 	Connection ds = null;
 	String url="jdbc:mysql://localhost:3306/jsp";
 	String ii="root";
-	String ss="1234";
+	String ss="----------";
 	
     private static ShopBookDBBean instance 
                           = new ShopBookDBBean();
