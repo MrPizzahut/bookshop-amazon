@@ -16,7 +16,7 @@ public class BuyDBBean {
 	Connection ds = null;
 	String url="jdbc:mysql://localhost:3306/jsp";
 	String ii="root";
-	String ss="1234";
+	String ss="-------";
 private static BuyDBBean instance = new BuyDBBean();
 	
 	public static BuyDBBean getInstance() {
